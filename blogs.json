@@ -1,0 +1,74 @@
+[
+  {
+    "id": "how-to-build-saas-landing-page",
+    "fileName": "how-to-build-saas-landing-page.md",
+    "title": "How to Build a SaaS Landing Page with Next.js & Tailwind CSS",
+    "date": "2024-03-15",
+    "author": "John Doe",
+    "category": "Development",
+    "tags": ["Next.js", "Tailwind CSS", "SaaS", "Web Design"],
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+    "excerpt": "Learn how to create a high-converting SaaS landing page using Next.js and Tailwind CSS. This comprehensive guide covers everything from setup to deployment.",
+    "readTime": "8 min read"
+  },
+  {
+    "id": "understanding-react-hooks",
+    "fileName": "understanding-react-hooks.md",
+    "title": "Understanding React Hooks: A Complete Guide",
+    "date": "2024-03-10",
+    "author": "John Doe",
+    "category": "Development",
+    "tags": ["React", "JavaScript", "Hooks", "Frontend"],
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80",
+    "excerpt": "Master React Hooks with this comprehensive guide. Learn about useState, useEffect, useContext, and custom hooks with practical examples.",
+    "readTime": "12 min read"
+  },
+  {
+    "id": "design-systems-best-practices",
+    "fileName": "design-systems-best-practices.md",
+    "title": "Design Systems: Best Practices for 2024",
+    "date": "2024-03-05",
+    "author": "John Doe",
+    "category": "Design",
+    "tags": ["Design Systems", "UI/UX", "Best Practices", "Component Libraries"],
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+    "excerpt": "Build scalable design systems that empower your team. Learn the best practices for creating, maintaining, and evolving design systems.",
+    "readTime": "10 min read"
+  },
+  {
+    "id": "typescript-for-beginners",
+    "fileName": "typescript-for-beginners.md",
+    "title": "TypeScript for Beginners: Getting Started",
+    "date": "2024-02-28",
+    "author": "John Doe",
+    "category": "Development",
+    "tags": ["TypeScript", "JavaScript", "Programming", "Tutorial"],
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80",
+    "excerpt": "New to TypeScript? This beginner-friendly guide will help you understand the basics and start writing type-safe JavaScript code.",
+    "readTime": "15 min read"
+  },
+  {
+    "id": "responsive-design-tips",
+    "fileName": "responsive-design-tips.md",
+    "title": "Responsive Design Tips for Modern Web",
+    "date": "2024-02-20",
+    "author": "John Doe",
+    "category": "Design",
+    "tags": ["Responsive Design", "CSS", "Web Design", "Mobile First"],
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+    "excerpt": "Master responsive design with these practical tips and techniques. Learn how to create websites that look great on any device.",
+    "readTime": "7 min read"
+  },
+  {
+    "id": "web-performance-optimization",
+    "fileName": "web-performance-optimization.md",
+    "title": "Web Performance Optimization Techniques",
+    "date": "2024-02-15",
+    "author": "John Doe",
+    "category": "Development",
+    "tags": ["Performance", "Optimization", "Web Development", "Best Practices"],
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+    "excerpt": "Speed matters. Learn proven techniques to optimize your website's performance and deliver lightning-fast user experiences.",
+    "readTime": "11 min read"
+  }
+]
