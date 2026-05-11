@@ -8,11 +8,12 @@
     "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
     "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
-      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
-      "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=800&q=80",
-      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
-      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80"    ],
+     "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg",
+   "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg"  ],
     "technologies": ["React Native", "TypeScript", "Redux", "Firebase", "Node.js"],
     "features": [
       "Task creation and management",
