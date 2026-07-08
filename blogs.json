@@ -34,17 +34,6 @@
     "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
     "excerpt": "Master responsive design with these practical tips and techniques. Learn how to create websites that look great on any device.",
     "readTime": "7 min read"
-  },
-  {
-    "id": "web-performance-optimization",
-    "fileName": "web-performance-optimization.md",
-    "title": "Web Performance Optimization Techniques",
-    "date": "2024-02-15",
-    "author": "John Doe",
-    "category": "Development",
-    "tags": ["Performance", "Optimization", "Web Development", "Best Practices"],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-    "excerpt": "Speed matters. Learn proven techniques to optimize your website's performance and deliver lightning-fast user experiences.",
-    "readTime": "11 min read"
   }
+
 ]
