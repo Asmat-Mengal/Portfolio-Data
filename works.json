@@ -1,7 +1,7 @@
 [
   {
     "id": "taskify-app",
-    "title": "Taskify - To Do List App",
+    "title": "Taskify - To Do List App 123",
     "category": "Mobile App",
 
     "client" : "Henry Thompson",
@@ -35,7 +35,7 @@
     "github": "https://github.com/example/taskify",
     "year": "2024"
   }, {
-    "id": "taskify-app ert",
+    "id": "taskify-app-ert",
     "title": "Taskify - To Do List App",
     "category": "Mobile App",
     "client" : "Henry Thompson",
