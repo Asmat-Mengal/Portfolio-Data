@@ -3,6 +3,8 @@
     "id": "taskify-app",
     "title": "Taskify - To Do List App",
     "category": "Mobile App",
+
+    "client" : "Henry Thompson",
     "description": "Building powerful and rich web experiences",
     "shortDescription": "A modern task management application with intuitive design and powerful features.",
     "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
@@ -36,6 +38,7 @@
     "id": "taskify-app ert",
     "title": "Taskify - To Do List App",
     "category": "Mobile App",
+    "client" : "Henry Thompson",
     "description": "Building powerful and rich web experiences",
     "shortDescription": "A modern task management application with intuitive design and powerful features.",
     "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
