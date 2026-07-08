@@ -1,6 +1,6 @@
 [
   {
-    "id": "taskify-app",
+    "id": "taskify-app1",
     "title": "Taskify - To Do List App 123",
     "category": "Mobile App",
 
@@ -34,10 +34,81 @@
     "liveLink": "https://example.com",
     "github": "https://github.com/example/taskify",
     "year": "2024"
-  }, {
-    "id": "taskify-app-ert",
-    "title": "Taskify - To Do List App",
+  },   {
+    "id": "taskify-app2",
+    "title": "Taskify - To Do List App 123",
     "category": "Mobile App",
+
+    "client" : "Henry Thompson",
+    "description": "Building powerful and rich web experiences",
+    "shortDescription": "A modern task management application with intuitive design and powerful features.",
+    "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+    "images": [
+     "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg",
+   "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg"  ],
+    "technologies": ["React Native", "TypeScript", "Redux", "Firebase", "Node.js"],
+    "features": [
+      "Task creation and management",
+      "Priority levels and categorization",
+      "Dark mode interface",
+      "Real-time synchronization",
+      "Push notifications",
+      "Offline support"
+    ],
+    "stats": {
+      "downloads": "10K+",
+      "rating": "4.8/5",
+      "users": "5K+",
+      "completion": "30%"
+    },
+    "liveLink": "https://example.com",
+    "github": "https://github.com/example/taskify",
+    "year": "2024"
+  },  {
+    "id": "taskify-app3",
+    "title": "Taskify - To Do List App 123",
+    "category": "Mobile App",
+
+    "client" : "Henry Thompson",
+    "description": "Building powerful and rich web experiences",
+    "shortDescription": "A modern task management application with intuitive design and powerful features.",
+    "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+    "images": [
+     "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg",
+   "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
+    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg"  ],
+    "technologies": ["React Native", "TypeScript", "Redux", "Firebase", "Node.js"],
+    "features": [
+      "Task creation and management",
+      "Priority levels and categorization",
+      "Dark mode interface",
+      "Real-time synchronization",
+      "Push notifications",
+      "Offline support"
+    ],
+    "stats": {
+      "downloads": "10K+",
+      "rating": "4.8/5",
+      "users": "5K+",
+      "completion": "30%"
+    },
+    "liveLink": "https://example.com",
+    "github": "https://github.com/example/taskify",
+    "year": "2024"
+  },  {
+    "id": "taskify-app4",
+    "title": "Taskify - To Do List App 123",
+    "category": "Mobile App",
+
     "client" : "Henry Thompson",
     "description": "Building powerful and rich web experiences",
     "shortDescription": "A modern task management application with intuitive design and powerful features.",
