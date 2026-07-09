@@ -1,39 +1,5 @@
 [
-  {
-    "id": "taskflow-mobile",
-    "title": "TaskFlow Mobile",
-    "category": "Mobile App",
-    "client": "Nova Labs",
-    "description": "A productivity application built to simplify daily task management.",
-    "shortDescription": "A modern task management app with smart organization and smooth animations.",
-    "fullDescription": "TaskFlow Mobile helps users organize tasks, set priorities, track progress, and manage daily goals. It provides a clean interface with offline support, reminders, and synchronization across devices.",
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&q=80",
-      "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80",
-      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80"
-    ],
-    "technologies": [
-      "React Native",
-      "TypeScript",
-      "Firebase"
-    ],
-    "features": [
-      "Task management",
-      "Push notifications",
-      "Dark mode",
-      "Offline access"
-    ],
-    "stats": {
-      "downloads": "25K+",
-      "rating": "4.9/5",
-      "users": "12K+",
-      "completion": "100%"
-    },
-    "liveLink": "https://example.com",
-    "github": "https://github.com/example/taskflow",
-    "year": "2025"
-  },
+
 
   {
     "id": "pulse-finance",
