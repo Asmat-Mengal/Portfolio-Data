@@ -1,28 +1,5 @@
 [
-  {
-    "id": "design-systems-best-practices",
-    "fileName": "design-systems-best-practices.md",
-    "title": "Design Systems: Best Practices for 2024",
-    "date": "2024-03-05",
-    "author": "John Doe",
-    "category": "Design",
-    "tags": ["Design Systems", "UI/UX", "Best Practices", "Component Libraries"],
-    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
-    "excerpt": "Build scalable design systems that empower your team. Learn the best practices for creating, maintaining, and evolving design systems.",
-    "readTime": "10 min read"
-  },
-  {
-    "id": "typescript-for-beginners",
-    "fileName": "typescript-for-beginners.md",
-    "title": "TypeScript for Beginners: Getting Started",
-    "date": "2024-02-28",
-    "author": "John Doe",
-    "category": "Development",
-    "tags": ["TypeScript", "JavaScript", "Programming", "Tutorial"],
-    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80",
-    "excerpt": "New to TypeScript? This beginner-friendly guide will help you understand the basics and start writing type-safe JavaScript code.",
-    "readTime": "15 min read"
-  },
+
   {
     "id": "responsive-design-tips",
     "fileName": "responsive-design-tips.md",
