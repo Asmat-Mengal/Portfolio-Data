@@ -1,143 +1,185 @@
 [
   {
-    "id": "taskify-app1",
-    "title": "Taskify - To Do List App 123",
+    "id": "taskflow-mobile",
+    "title": "TaskFlow Mobile",
     "category": "Mobile App",
-
-    "client" : "Henry Thompson",
-    "description": "Building powerful and rich web experiences",
-    "shortDescription": "A modern task management application with intuitive design and powerful features.",
-    "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
-    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+    "client": "Nova Labs",
+    "description": "A productivity application built to simplify daily task management.",
+    "shortDescription": "A modern task management app with smart organization and smooth animations.",
+    "fullDescription": "TaskFlow Mobile helps users organize tasks, set priorities, track progress, and manage daily goals. It provides a clean interface with offline support, reminders, and synchronization across devices.",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
     "images": [
-     "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg",
-   "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg"  ],
-    "technologies": ["React Native", "TypeScript", "Redux", "Firebase", "Node.js"],
+      "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&q=80",
+      "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80",
+      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80"
+    ],
+    "technologies": [
+      "React Native",
+      "TypeScript",
+      "Firebase"
+    ],
     "features": [
-      "Task creation and management",
-      "Priority levels and categorization",
-      "Dark mode interface",
-      "Real-time synchronization",
+      "Task management",
       "Push notifications",
-      "Offline support"
+      "Dark mode",
+      "Offline access"
     ],
     "stats": {
-      "downloads": "10K+",
-      "rating": "4.8/5",
-      "users": "5K+",
-      "completion": "30%"
+      "downloads": "25K+",
+      "rating": "4.9/5",
+      "users": "12K+",
+      "completion": "100%"
     },
     "liveLink": "https://example.com",
-    "github": "https://github.com/example/taskify",
-    "year": "2024"
-  },   {
-    "id": "taskify-app2",
-    "title": "Taskify - To Do List App 123",
-    "category": "Mobile App",
+    "github": "https://github.com/example/taskflow",
+    "year": "2025"
+  },
 
-    "client" : "Henry Thompson",
-    "description": "Building powerful and rich web experiences",
-    "shortDescription": "A modern task management application with intuitive design and powerful features.",
-    "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
-    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+  {
+    "id": "pulse-finance",
+    "title": "Pulse Finance Dashboard",
+    "category": "Web Application",
+    "client": "Vertex Finance",
+    "description": "A financial analytics platform for tracking business performance.",
+    "shortDescription": "Interactive dashboard with charts, analytics, and financial insights.",
+    "fullDescription": "Pulse Finance provides companies with real-time financial monitoring tools. It includes revenue tracking, analytics reports, account management, and visual data representation.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
     "images": [
-     "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg",
-   "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg"  ],
-    "technologies": ["React Native", "TypeScript", "Redux", "Firebase", "Node.js"],
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+      "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&q=80"
+    ],
+    "technologies": [
+      "React",
+      "Next.js",
+      "Node.js",
+      "PostgreSQL"
+    ],
     "features": [
-      "Task creation and management",
-      "Priority levels and categorization",
-      "Dark mode interface",
-      "Real-time synchronization",
-      "Push notifications",
-      "Offline support"
+      "Analytics dashboard",
+      "Revenue tracking",
+      "Data visualization",
+      "Export reports"
     ],
     "stats": {
-      "downloads": "10K+",
-      "rating": "4.8/5",
-      "users": "5K+",
-      "completion": "30%"
+      "downloads": "8K+",
+      "rating": "4.7/5",
+      "users": "4K+",
+      "completion": "95%"
     },
     "liveLink": "https://example.com",
-    "github": "https://github.com/example/taskify",
+    "github": "https://github.com/example/pulse-finance",
     "year": "2024"
-  },  {
-    "id": "taskify-app3",
-    "title": "Taskify - To Do List App 123",
-    "category": "Mobile App",
+  },
 
-    "client" : "Henry Thompson",
-    "description": "Building powerful and rich web experiences",
-    "shortDescription": "A modern task management application with intuitive design and powerful features.",
-    "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
-    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+  {
+    "id": "luxe-commerce",
+    "title": "Luxe Commerce",
+    "category": "E-Commerce",
+    "client": "Luxe Retail",
+    "description": "A premium online shopping experience for modern brands.",
+    "shortDescription": "A luxury e-commerce platform focused on speed and conversion.",
+    "fullDescription": "Luxe Commerce is a scalable shopping platform featuring product management, secure payments, customer accounts, and optimized checkout experiences.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
     "images": [
-     "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg",
-   "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg"  ],
-    "technologies": ["React Native", "TypeScript", "Redux", "Firebase", "Node.js"],
+      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80"
+    ],
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "Stripe",
+      "MongoDB"
+    ],
     "features": [
-      "Task creation and management",
-      "Priority levels and categorization",
-      "Dark mode interface",
-      "Real-time synchronization",
-      "Push notifications",
-      "Offline support"
+      "Product catalog",
+      "Shopping cart",
+      "Payment system",
+      "Order tracking"
     ],
     "stats": {
-      "downloads": "10K+",
+      "downloads": "18K+",
       "rating": "4.8/5",
-      "users": "5K+",
-      "completion": "30%"
+      "users": "9K+",
+      "completion": "92%"
     },
     "liveLink": "https://example.com",
-    "github": "https://github.com/example/taskify",
-    "year": "2024"
-  },  {
-    "id": "taskify-app4",
-    "title": "Taskify - To Do List App 123",
-    "category": "Mobile App",
+    "github": "https://github.com/example/luxe-commerce",
+    "year": "2025"
+  },
 
-    "client" : "Henry Thompson",
-    "description": "Building powerful and rich web experiences",
-    "shortDescription": "A modern task management application with intuitive design and powerful features.",
-    "fullDescription": "Taskify is a comprehensive to-do list application designed to help users organize their daily tasks efficiently. The app features a clean, dark interface with smooth animations and an intuitive user experience. Built with React Native, it offers cross-platform compatibility and real-time synchronization.",
-    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
+  {
+    "id": "health-connect",
+    "title": "Health Connect",
+    "category": "Healthcare App",
+    "client": "MedTech Solutions",
+    "description": "A healthcare platform connecting patients with medical services.",
+    "shortDescription": "A digital healthcare application for appointments and health tracking.",
+    "fullDescription": "Health Connect allows users to manage appointments, store medical records, communicate with doctors, and monitor health information through an easy-to-use interface.",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80",
     "images": [
-     "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg",
-   "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image2_xwkkq9.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image3_wenxvn.jpg",
-    "https://res.cloudinary.com/drgvohcfh/image/upload/v1778491783/Image1_b9i5jw.jpg"  ],
-    "technologies": ["React Native", "TypeScript", "Redux", "Firebase", "Node.js"],
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80",
+      "https://images.unsplash.com/photo-1584982751601-97dcc096659c?w=800&q=80",
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&q=80"
+    ],
+    "technologies": [
+      "Flutter",
+      "Firebase",
+      "Node.js",
+      "Express"
+    ],
     "features": [
-      "Task creation and management",
-      "Priority levels and categorization",
-      "Dark mode interface",
-      "Real-time synchronization",
-      "Push notifications",
-      "Offline support"
+      "Doctor appointments",
+      "Health tracking",
+      "Medical records",
+      "Secure messaging"
     ],
     "stats": {
-      "downloads": "10K+",
-      "rating": "4.8/5",
-      "users": "5K+",
-      "completion": "30%"
+      "downloads": "30K+",
+      "rating": "4.9/5",
+      "users": "15K+",
+      "completion": "98%"
     },
     "liveLink": "https://example.com",
-    "github": "https://github.com/example/taskify",
+    "github": "https://github.com/example/health-connect",
     "year": "2024"
+  },
+
+  {
+    "id": "ai-studio",
+    "title": "AI Studio",
+    "category": "AI Platform",
+    "client": "Future Labs",
+    "description": "An artificial intelligence workspace for automation and creativity.",
+    "shortDescription": "An AI-powered platform for generating content and improving workflows.",
+    "fullDescription": "AI Studio provides intelligent tools for writing, analysis, automation, and productivity. The platform combines modern AI models with a simple user experience.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80"
+    ],
+    "technologies": [
+      "React",
+      "Python",
+      "FastAPI",
+      "AI APIs"
+    ],
+    "features": [
+      "AI assistant",
+      "Content generation",
+      "Automation",
+      "Smart recommendations"
+    ],
+    "stats": {
+      "downloads": "50K+",
+      "rating": "4.9/5",
+      "users": "22K+",
+      "completion": "90%"
+    },
+    "liveLink": "https://example.com",
+    "github": "https://github.com/example/ai-studio",
+    "year": "2026"
   }
 ]
