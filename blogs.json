@@ -1,7 +1,7 @@
 [
   {
     "id": "responsive-design-tips",
-    "fileName": "responsive-hooks-guide.md",
+    "fileName": "react-hooks-guide.md",
     "title": "Responsive Design Tips for Modern Web",
     "date": "2024-02-20",
     "author": "Asmat Mengal",
@@ -13,7 +13,7 @@
   },
   {
     "id": "react-hooks-guide",
-    "fileName": "responsive-hooks-guide.md",
+    "fileName": "react-hooks-guide.md",
     "title": "Understanding React Hooks: A Comprehensive Guide",
     "date": "2024-02-15",
     "author": "Asmat Mengal",
@@ -37,7 +37,7 @@
   },
   {
     "id": "javascript-closures",
-    "fileName": "responsive-hooks-guide.md",
+    "fileName": "react-hooks-guide.md",
     "title": "JavaScript Closures: Understanding the Core Concept",
     "date": "2024-02-05",
     "author": "Asmat Mengal",
