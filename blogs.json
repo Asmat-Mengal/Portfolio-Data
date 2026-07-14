@@ -1,2 +1,50 @@
 [
+   {
+    "id": "responsive-design-tips",
+    "fileName": "react-hooks-guide.md",
+    "title": "Responsive Design Tips for Modern Web",
+    "date": "2024-02-20",
+    "author": "Asmat Mengal",
+    "category": "Design",
+    "tags": ["Responsive Design", "CSS", "Web Design", "Mobile First"],
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+    "excerpt": "Master responsive design with these practical tips and techniques. Learn how to create websites that look great on any device.",
+    "readTime": "7 min read"
+  },
+  {
+    "id": "react-hooks-guide",
+    "fileName": "react-hooks-guide.md",
+    "title": "Understanding React Hooks: A Comprehensive Guide",
+    "date": "2024-02-15",
+    "author": "Asmat Mengal",
+    "category": "React",
+    "tags": ["React", "Hooks", "JavaScript", "Frontend"],
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80",
+    "excerpt": "Dive deep into React Hooks and learn how to use them effectively in your applications. From useState to custom hooks.",
+    "readTime": "10 min read"
+  },
+  {
+    "id": "css-grid-mastery",
+    "fileName": "css-grid-mastery.md",
+    "title": "CSS Grid Mastery: Building Complex Layouts",
+    "date": "2024-02-10",
+    "author": "Asmat Mengal",
+    "category": "CSS",
+    "tags": ["CSS", "CSS Grid", "Layout", "Web Design"],
+    "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=800&q=80",
+    "excerpt": "Take your CSS skills to the next level with CSS Grid. Learn how to build complex, responsive layouts with ease.",
+    "readTime": "8 min read"
+  },
+  {
+    "id": "javascript-closures",
+    "fileName": "react-hooks-guide.md",
+    "title": "JavaScript Closures: Understanding the Core Concept",
+    "date": "2024-02-05",
+    "author": "Asmat Mengal",
+    "category": "JavaScript",
+    "tags": ["JavaScript", "Closures", "Programming", "Web Development"],
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "excerpt": "Closures are a fundamental concept in JavaScript. This guide will help you understand and use closures effectively in your code.",
+    "readTime": "6 min read"
+  }
 ]
