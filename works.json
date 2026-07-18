@@ -13,18 +13,8 @@
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
       "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&q=80"
     ],
-    "technologies": [
-      "React",
-      "Next.js",
-      "Node.js",
-      "PostgreSQL"
-    ],
-    "features": [
-      "Analytics dashboard",
-      "Revenue tracking",
-      "Data visualization",
-      "Export reports"
-    ],
+    "technologies": ["React", "Next.js", "Node.js", "PostgreSQL"],
+    "features": ["Analytics dashboard", "Revenue tracking", "Data visualization", "Export reports"],
     "stats": {
       "downloads": "8K+",
       "rating": "4.7/5",
@@ -35,7 +25,6 @@
     "github": "https://github.com/example/pulse-finance",
     "year": "2024"
   },
-
   {
     "id": "luxe-commerce",
     "title": "Luxe Commerce",
@@ -50,18 +39,8 @@
       "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
       "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80"
     ],
-    "technologies": [
-      "React",
-      "Tailwind CSS",
-      "Stripe",
-      "MongoDB"
-    ],
-    "features": [
-      "Product catalog",
-      "Shopping cart",
-      "Payment system",
-      "Order tracking"
-    ],
+    "technologies": ["React", "Tailwind CSS", "Stripe", "MongoDB"],
+    "features": ["Product catalog", "Shopping cart", "Payment system", "Order tracking"],
     "stats": {
       "downloads": "18K+",
       "rating": "4.8/5",
@@ -72,79 +51,4 @@
     "github": "https://github.com/example/luxe-commerce",
     "year": "2025"
   }
-,,
-
-  {
-    "id": "luxe-commerce1",
-    "title": "Luxe Commerce",
-    "category": "E-Commerce",
-    "client": "Luxe Retail",
-    "description": "A premium online shopping experience for modern brands.",
-    "shortDescription": "A luxury e-commerce platform focused on speed and conversion.",
-    "fullDescription": "Luxe Commerce is a scalable shopping platform featuring product management, secure payments, customer accounts, and optimized checkout experiences.",
-    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
-      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
-      "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80"
-    ],
-    "technologies": [
-      "React",
-      "Tailwind CSS",
-      "Stripe",
-      "MongoDB"
-    ],
-    "features": [
-      "Product catalog",
-      "Shopping cart",
-      "Payment system",
-      "Order tracking"
-    ],
-    "stats": {
-      "downloads": "18K+",
-      "rating": "4.8/5",
-      "users": "9K+",
-      "completion": "92%"
-    },
-    "liveLink": "https://example.com",
-    "github": "https://github.com/example/luxe-commerce",
-    "year": "2025"
-  },
-  {
-    "id": "pulse-finance1",
-    "title": "Pulse Finance Dashboard",
-    "category": "Web Application",
-    "client": "Vertex Finance",
-    "description": "A financial analytics platform for tracking business performance.",
-    "shortDescription": "Interactive dashboard with charts, analytics, and financial insights.",
-    "fullDescription": "Pulse Finance provides companies with real-time financial monitoring tools. It includes revenue tracking, analytics reports, account management, and visual data representation.",
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
-      "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&q=80"
-    ],
-    "technologies": [
-      "React",
-      "Next.js",
-      "Node.js",
-      "PostgreSQL"
-    ],
-    "features": [
-      "Analytics dashboard",
-      "Revenue tracking",
-      "Data visualization",
-      "Export reports"
-    ],
-    "stats": {
-      "downloads": "8K+",
-      "rating": "4.7/5",
-      "users": "4K+",
-      "completion": "95%"
-    },
-    "liveLink": "https://example.com",
-    "github": "https://github.com/example/pulse-finance",
-    "year": "2024"
-  }
-
 ]
